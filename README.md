@@ -1,11 +1,11 @@
-# Classic-Arcade-Game-Clone-Frogger
-# Classic-Arcade-Game 
+# Classic-Arcade-Game-Clone-Frogger 
 ## Project Requirements 
 You will be provided with visual assets and a game loop engine; using these tools you must add a number of entities to the game including the player characters and enemies to recreate the classic arcade game "Frogger".
 
 ## How to play the game   
-- Use arrow keys 'up', 'right', 'down' and 'left' to move the boy on the grass, to get him to the river without colliding with the bugs on the stone path.  
-- If the boy collides with the bugs, he has to go back to the start point either by refreshing or hitting "Play Again" button.   - If you successfully move the boy with no collisions, you win the game and twinkling animation appears. 
+- Use arrow keys up,  down, right and left to move the boy on the grass, to get him to the river without colliding with the bugs on the stone path.  
+- If the boy collides with the bugs, he has to go back to the start point. This can be done either by refreshing or hitting "Play Again" button. 
+- If you successfully move the boy with no collisions, you win the game and twinkling animation appears. 
 - If you want to reset the game, please refresh the page.
 
 ## How I learnt to make the game run 
