@@ -15,6 +15,11 @@ You will be provided with visual assets and a game loop engine; using these tool
 - The `engine.js` is assigned to immediately invoked function. It executes the game. It has the kickoff point `main()`. It also defines other variables that set the canvas' width and height. The `onReady()` acts as push function.   
 - The `resources.js` takes array of images.For every instance in the array we call underbar load on url. It is the 'else' block that makes new image and defines onload function which is to be executed once only.  Once loading is done, cache `url` to `false` and all images load.
 
+## Installation
+- Click download ZIP on the right of the screen, then extract the zip file to your computer.
+- Locate where you unzipped the files in the repo.
+- Click index.html to open the game in your browser.
+
 ## Resources  
 - Understanding the [engine.js](https://plus.google.com/u/0/events/cupbs3pbne7qkuqok4g0ldhntic?authkey=COGW25b5jbv3-AE)   
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)  
